@@ -18,6 +18,8 @@ RAM Simulation: Explore how RAM works inside ShortOS.
 
 Everything else is experimental or placeholder. No real “apps” exist yet.
 
+⚠️ Developed and tested on iOS 18.1.1
+
 #  How to Use
 
 Open Shortcuts
