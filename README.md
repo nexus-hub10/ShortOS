@@ -2,7 +2,7 @@
 
 ShortOS is an experimental mini operating system made entirely inside iOS Shortcuts. This is version 0.0.1, the very first release.
 
-⚠️ Note: This is extremely early-stage. Only basic features work. This is more of a playground for exploring ideas than a full OS.
+⚠️ Note: This is extremely early-stage. Only basic features work.
 
 # What Works in v0.0.1
 
