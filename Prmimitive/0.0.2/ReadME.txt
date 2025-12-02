@@ -1,1 +1,1 @@
-Still work in preogress... the visual output is coming?
+Still work in preogress... Is the visual output coming?
