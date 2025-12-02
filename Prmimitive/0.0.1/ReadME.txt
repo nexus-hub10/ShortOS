@@ -1,0 +1,1 @@
+This is the very first release of ShortOS for now the BIOS is the only fully working features, you ca explore the filesystem, use the BIOS, shutdown the machine and saving its data and see how the RAM works
